@@ -7,3 +7,5 @@
 
 2nd Folder contains the code which detects the object on teachable machine.
   It is written in P5.js
+
+Demo Video: https://youtu.be/RRuQ6VQGV_A
